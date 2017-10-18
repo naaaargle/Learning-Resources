@@ -3,8 +3,8 @@
 This source is linked by the MDN (Mozilla Developer Network).
 
 ## Includes:
-- How to traverse.
-- Check its contents.
-- Add.
-- Remove.
+- How to traverse
+- Check its contents
+- Add
+- Remove
 - Etc..
