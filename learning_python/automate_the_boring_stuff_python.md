@@ -2,7 +2,7 @@
 
 This book teaches you the basics of the Python language at the beginning and then gradually moves on to the advanced concepts of Python.
 
-The book focusses on the automation of simple tasks using Python, like
+The book focuses on the automation of simple tasks using Python, like
 1. Search for text in a file or across multiple files
 2. Create, update, move, and rename files and folders
 3. Search the Web and download online content
@@ -10,4 +10,3 @@ The book focusses on the automation of simple tasks using Python, like
 5. Split, merge, watermark, and encrypt PDFs
 6. Send reminder emails and text notifications
 7. Fill out online forms
-
